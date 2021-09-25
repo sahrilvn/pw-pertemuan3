@@ -1,0 +1,18 @@
+h1{
+    color: slategrey;
+}
+#warna{
+    color: red;
+}
+.circular-image {
+    border: 1px solid #000000;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+   }
+
+.letak{
+   margin: 0 0 0 400;
+   padding: 0;
+   }
